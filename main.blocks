@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="w@eI:q_^six[ameSQ|Uf" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="KS2/45b({M9-OU;laX[%"><field name="i">IconNames.Scissors</field></block></statement></block></xml>
